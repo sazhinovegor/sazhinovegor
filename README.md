@@ -32,6 +32,7 @@
 | [GoProjects](https://github.com/sazhinovegor/GoProjects) | Go learning and practice | Go |
 | [TIP](https://github.com/sazhinovegor/TIP) | Programming coursework and practical assignments | C++ |
 | [Personal Website](https://github.com/sazhinovegor/sazhinovegor.github.io) | Personal web project | HTML, CSS, JS |
+| [AI model](https://github.com/sazhinovegor/AstroAI) | AI model for astronomy | Python |
 
 ## 📊 GitHub Stats
 
